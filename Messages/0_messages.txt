@@ -1,0 +1,7 @@
+robot_name:小梦
+user_name:GMCY
+tuling_URL*http://openapi.tuling123.com/openapi/api/v2
+tuling_KEY:
+tuling_ID:
+buttons:1.1.0.0.0.1
+local_path:..\\Messages\\0_talk.txt*..\\Messages\\talk.txt
